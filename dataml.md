@@ -1,6 +1,7 @@
 # Artirj's bizarre data science/ML adventure
 ## What has been done so far:
 * Machine Learning coursera course (Coursera, 2016)
+
 ## What is being done
 * Intro to Data Science (Udacity, 2016)
 * Working through [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
