@@ -1,15 +1,18 @@
 # Artirj's bizarre data science/ML adventure
 ## What has been done so far:
 * Machine Learning coursera course (Coursera, 2016)
+* Intro to Data Science (Udacity, 2016)
 
 ## What is being done
-* Intro to Data Science (Udacity, 2016)
+
 * Working through [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
 * Read Russell-Norvig textbook
+* Kaggle's Titanic dataset
 
 ## What is next in the queue
-1. a
-2. b
+1. Git gud at python's weird and useful things (lambdas, maps)
+2. Further Kaggle
+3. Reinforcement learning
 
 ## What could be done
 * Karpathy's [lectures](http://cs231n.github.io/)
@@ -42,6 +45,7 @@
 
 ## Possible projects
 * Kaggle competition
+ * ~~Titanic dataset~~
 * Financial analysis
 * Shamelessly copy Emil's website
 * 'Learn to read a paper' website
