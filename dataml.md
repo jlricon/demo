@@ -12,7 +12,7 @@
 2. b
 
 ## What could be done
-* Karpathy's lectures
+* Karpathy's [lectures](http://cs231n.github.io/)
 * Geoff Hinton's coursera
 * Read papers from the github repo
 * Learn D3 or Bokeh or sth like that
@@ -33,3 +33,16 @@
 * Learn Caffee
 * Learn Keras
 * Read 'A few useful things about ML'
+* [This](http://cs109.github.io/2015/index.html) course
+* Read intro to ML books
+* Statistics!
+* Git gud with scipy http://www.scipy-lectures.org/
+* Seaborn/Matlotlib
+* This http://machinelearningmastery.com/get-started-machine-learning/
+
+## Possible projects
+* Kaggle competition
+* Financial analysis
+* Shamelessly copy Emil's website
+* 'Learn to read a paper' website
+Where to put them? artirj.github.io or get hosting.
