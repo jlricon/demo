@@ -46,3 +46,6 @@
 * Shamelessly copy Emil's website
 * 'Learn to read a paper' website
 Where to put them? artirj.github.io or get hosting.
+
+## Other
+* https://www.interviewcake.com/
