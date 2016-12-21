@@ -12,8 +12,7 @@
 ## What is next in the queue
 1. Git gud at python's weird and useful things (lambdas, maps)
 2. Git stalking
-3. Reinforcement learning Udacity
-
+3. Intro to AI Udacity 
 ## What could be done
 * Karpathy's [lectures](http://cs231n.github.io/)
 * Geoff Hinton's coursera
