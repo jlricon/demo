@@ -2,12 +2,12 @@
 ## What has been done so far:
 * Machine Learning coursera course (Coursera, 2016)
 * Intro to Data Science (Udacity, 2016)
+* Play with Kaggle's Titanic dataset (23-Dec-16)
+* Read Read Russell-Norvig textbook (22-Dec-16)
 
 ## What is being done
 
 * Working through [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
-* Read Russell-Norvig textbook
-* Kaggle's Titanic dataset
 
 ## What is next in the queue
 1. Git gud at python's weird and useful things (lambdas, maps)
@@ -34,7 +34,7 @@
 * Learn Tensorflow
 * Learn Caffee
 * Learn Keras
-* Read 'A few useful things about ML'
+* ~~Read 'A few useful things about ML'~~
 * [This](http://cs109.github.io/2015/index.html) course
 * Read intro to ML books
 * Statistics!
