@@ -19,8 +19,8 @@
 * Karpathy's [lectures](http://cs231n.github.io/)
 * Geoff Hinton's coursera
 * Read papers from the github repo
-* Learn D3 or Bokeh or sth like that
-* Create a website with some vizs
+* Learn D3 or Bokeh
+* Create a website with some visz
 * Udacities on
   * Intro to AI
   * Reinforcement learning
@@ -34,12 +34,13 @@
 * Learn AWS
 * Learn Theano
 * Learn Tensorflow
-* Learn Caffee
 * Learn Keras
 * ~~Read 'A few useful things about ML'~~
 * [This](http://cs109.github.io/2015/index.html) course
-* Read intro to ML books
-* Statistics!
+* Books
+ * Kevin Murphy's book
+ * [Deep Learning](http://www.deeplearningbook.org/)
+* Statistics! (Refresh)
 * Git gud with scipy http://www.scipy-lectures.org/
 * ~~Seaborn/Matlotlib~~
 * ~~Git gud at python's weird and useful things (lambdas, maps)~~
@@ -50,8 +51,8 @@
  * ~~Titanic dataset~~
 * Financial analysis
 * Shamelessly copy Emil's website
-* 'Learn to read a paper' website
-* Scalable Capital
+* 'Learn to read a paper' website (Explain what everything means, with pretty plots)
+* Replicate Scalable Capital's model
 Where to put them? artirj.github.io or get hosting. Or AWS
 
 ## Other
