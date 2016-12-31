@@ -3,7 +3,7 @@
 * Machine Learning coursera course (Coursera, 2016)
 * Intro to Data Science (Udacity, 2016)
 * Play with Kaggle's Titanic dataset (23-Dec-16)
-* Read Read Russell-Norvig textbook (22-Dec-16)
+* Read Russell-Norvig textbook (22-Dec-16)
 * Git gud at python's weird and useful things (lambdas, maps)
 
 ## What is being done
