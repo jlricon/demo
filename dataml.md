@@ -4,15 +4,17 @@
 * Intro to Data Science (Udacity, 2016)
 * Play with Kaggle's Titanic dataset (23-Dec-16)
 * Read Read Russell-Norvig textbook (22-Dec-16)
+* Git gud at python's weird and useful things (lambdas, maps)
 
 ## What is being done
 
 * Working through [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
+* Intro to Computer Vision course
 
 ## What is next in the queue
-1. Git gud at python's weird and useful things (lambdas, maps)
-2. Git stalking
-3. Intro to AI Udacity 
+1. Git stalking
+2. PROJECT using AWS and Flask
+3. Kaggle competition
 ## What could be done
 * Karpathy's [lectures](http://cs231n.github.io/)
 * Geoff Hinton's coursera
@@ -24,9 +26,9 @@
   * Reinforcement learning
   * Deep learning
   * AI for robotics
-  * AI for trading
+  * ~~AI for trading~~
   * Intro to CVision
-* Learn advanced python
+* ~~Learn advanced python~~
 * Learn Spark
 * Learn Hadoop
 * Learn AWS
@@ -39,7 +41,8 @@
 * Read intro to ML books
 * Statistics!
 * Git gud with scipy http://www.scipy-lectures.org/
-* Seaborn/Matlotlib
+* ~~Seaborn/Matlotlib~~
+* ~~Git gud at python's weird and useful things (lambdas, maps)~~
 * This http://machinelearningmastery.com/get-started-machine-learning/
 
 ## Possible projects
@@ -48,7 +51,8 @@
 * Financial analysis
 * Shamelessly copy Emil's website
 * 'Learn to read a paper' website
-Where to put them? artirj.github.io or get hosting.
+* Scalable Capital
+Where to put them? artirj.github.io or get hosting. Or AWS
 
 ## Other
 * https://www.interviewcake.com/
