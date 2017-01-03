@@ -4,12 +4,12 @@
 * Intro to Data Science (Udacity, 2016)
 * Play with Kaggle's Titanic dataset (23-Dec-16)
 * Read Russell-Norvig textbook (22-Dec-16)
-* Git gud at python's weird and useful things (lambdas, maps)
+* Read [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
 
 ## What is being done
 
-* Working through [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
 * Intro to Computer Vision course
+* Git stalking
 
 ## What is next in the queue
 1. Git stalking
