@@ -9,12 +9,14 @@
 ## What is being done
 
 * Intro to Computer Vision course
-* Git stalking
+* Miniprojects
 
 ## What is next in the queue
 1. Git stalking
 2. PROJECT using AWS and Flask
 3. Kaggle competition
+4. The fast.ai [course](http://course.fast.ai/)
+5. Karpathy's course? 
 ## What could be done
 * Karpathy's [lectures](http://cs231n.github.io/)
 * Geoff Hinton's coursera
@@ -41,7 +43,7 @@
  * Kevin Murphy's book
  * [Deep Learning](http://www.deeplearningbook.org/)
 * Statistics! (Refresh)
-* Git gud with scipy http://www.scipy-lectures.org/
+* ~~Git gud with scipy http://www.scipy-lectures.org/~~
 * ~~Seaborn/Matlotlib~~
 * ~~Git gud at python's weird and useful things (lambdas, maps)~~
 * This http://machinelearningmastery.com/get-started-machine-learning/
