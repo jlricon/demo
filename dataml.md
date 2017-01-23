@@ -17,6 +17,7 @@
 3. Kaggle competition
 4. The fast.ai [course](http://course.fast.ai/)
 5. Karpathy's course? 
+
 ## What could be done
 * Karpathy's [lectures](http://cs231n.github.io/)
 * Geoff Hinton's coursera
