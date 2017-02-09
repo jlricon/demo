@@ -1,0 +1,41 @@
+/* box2 are the left labels. box are the rounded buttons */
+.box{
+background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+padding:0.35cm;
+text-align:center;
+border:4px solid #eceeef;
+border-radius:.6rem;
+color:white;
+
+margin-bottom: .15rem;
+}
+
+.box2{
+background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+padding:0.35cm;
+text-align:center;
+border:4px solid #eceeff;
+border-right:15px solid #eceeef;
+color:white;
+
+}
+.separator{
+padding-top:0.3cm;
+padding-bottom:0.3cm;
+}
+
+.glow{
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px blue;
+
+}
+.customlink{
+color:white;
+
+}
+
+.box-height{
+display: flex;
+  justify-content: center;
+  align-items: center;
+}

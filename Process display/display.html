@@ -1,0 +1,27 @@
+<div class="jumbotron container-fluid">
+<h2>HR Process map</h2>
+<div class="row separator"></div>
+<div class="row">
+<div class="col-md-2 box2 box-height ">Core Processes</div>
+<div class="col-md-10 core_here"></div>
+</div>
+<div class="row separator"></div>
+<div class="row ">
+<div class="col-md-2 box2 box-height ">Supporting Processes</div>
+<div class="col-md-10 supporting_p_here "></div>
+</div>
+<div class="row separator"></div>
+<div class="row">
+<div class="col-md-2 box2 box-height ">Supporting Functions</div>
+<div class="col-md-10 supporting_f_here"></div>
+</div>
+</div>
+<!-- Scripts to read from excel and create the boxes, then match their height -->
+<!-- This allows reading the excel file -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/xlsx.core.min.js"></script>
+<!-- This does the actual reading of the excel file -->
+<script src="https://cdn.jsdelivr.net/alasql/0.3/alasql.min.js"></script>
+<!-- This gets info from the excel, and prepares the boxes -->
+<script src="http://bms.londontaxis.co.uk/Process_display/excel_process.js"></script>
+<!-- This matches the height of the boxes -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.0/jquery.matchHeight-min.js"></script>
