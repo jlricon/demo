@@ -9,14 +9,13 @@
 ## What is being done
 
 * Intro to Computer Vision course
-* Miniprojects
+* fast.ai course
 
 ## What is next in the queue
 1. Git stalking
 2. PROJECT using AWS and Flask
 3. Kaggle competition
-4. The fast.ai [course](http://course.fast.ai/)
-5. Karpathy's course? 
+4. Karpathy's course? 
 
 ## What could be done
 * Karpathy's [lectures](http://cs231n.github.io/)
