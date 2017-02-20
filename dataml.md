@@ -10,6 +10,7 @@
 
 * Intro to Computer Vision course
 * fast.ai course
+* Reading Goodfellow-Bengio Deep Learning book
 
 ## What is next in the queue
 1. Git stalking
@@ -41,7 +42,7 @@
 * [This](http://cs109.github.io/2015/index.html) course
 * Books
  * Kevin Murphy's book
- * [Deep Learning](http://www.deeplearningbook.org/)
+ * ~~[Deep Learning]~~(http://www.deeplearningbook.org/)
 * Statistics! (Refresh)
 * ~~Git gud with scipy http://www.scipy-lectures.org/~~
 * ~~Seaborn/Matlotlib~~
