@@ -17,6 +17,7 @@
 2. PROJECT using AWS and Flask
 3. Kaggle competition
 4. Karpathy's course? 
+5. Write a summary of Yoshua-Bengio, Ng, and fast.ai best practices for applied DL
 
 ## What could be done
 * Karpathy's [lectures](http://cs231n.github.io/)
