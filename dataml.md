@@ -7,12 +7,14 @@
 * Read [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
 * fast.ai course (5 Mar, 2017)
 * Read Goodfellow-Bengio DL book (5 Mar, 2017)
+* 
 
 ## What is being done
 
 * Intro to Computer Vision course
-* Experiment with neural nets
-* Kaggle competitions
+* Programming a TicTacToe agent
+* Reading Sutton-Barton RL book
+* David Silver course
 
 ## What is next in the queue
 1. Git stalking
