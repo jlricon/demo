@@ -7,7 +7,9 @@
 * Read [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
 * fast.ai course (5 Mar, 2017)
 * Read Goodfellow-Bengio DL book (5 Mar, 2017)
-* 
+* Andrew Ng's DeepLearning coursera courses (Coursera, Nov 2017)
+* Summarise UCL's MSc in ML (Nov, 2017)
+* Bayesian methods for hackers (Nov, 2017)
 
 ## What is being done
 
@@ -16,12 +18,6 @@
 * Reading Sutton-Barton RL book
 * David Silver course
 
-## What is next in the queue
-1. Git stalking
-2. PROJECT using AWS and Flask
-3. Kaggle competition
-4. Karpathy's course? 
-5. Write a summary of Yoshua-Bengio, Ng, and fast.ai best practices for applied DL
 
 ## What could be done
 * Karpathy's [lectures](http://cs231n.github.io/)
